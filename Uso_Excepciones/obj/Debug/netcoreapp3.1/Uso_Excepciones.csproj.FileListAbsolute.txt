@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/bin/Debug/netcoreapp3.1/Uso_Excepciones.deps.json
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/bin/Debug/netcoreapp3.1/Uso_Excepciones.runtimeconfig.json
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/bin/Debug/netcoreapp3.1/Uso_Excepciones.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/bin/Debug/netcoreapp3.1/Uso_Excepciones.dll
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/bin/Debug/netcoreapp3.1/Uso_Excepciones.pdb
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.dll
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.pdb
+/Users/tom/Desktop/C#/Uso_Excepciones/Uso_Excepciones/obj/Debug/netcoreapp3.1/Uso_Excepciones.genruntimeconfig.cache
